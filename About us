@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us | DailyTrend News</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            line-height: 1.8;
+            background: #f4f6f9;
+            color: #222;
+        }
+        h1 { color: #101d3a; }
+        a { color: #e63946; }
+    </style>
+</head>
+<body>
+    <h1>About DailyTrend News</h1>
+
+    <p>Welcome to DailyTrend News!</p>
+
+    <p>
+        Our goal is to help readers discover interesting
+        news, current affairs, sports, and technology stories.
+    </p>
+
+    <p>
+        We aim to provide useful, accurate, and understandable
+        information to our readers.
+    </p>
+
+    <p>
+        We are committed to correcting errors and improving
+        the quality of our content.
+    </p>
+
+    <p><a href="index.html">Return to Home</a></p>
+</body>
+</html>
